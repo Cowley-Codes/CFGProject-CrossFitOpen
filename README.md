@@ -14,4 +14,4 @@ During the course we used MySQL and WorkBench to cover:
 - Events & triggers
 - Data visualisation
 
-I am an enthusiastic CrossFitter, so I built my project database around the CF Open using joins and views to show athletes and gyms how they rank across the workouts and overall. For the final session of the course I submitted my SQL code and presented my project to the group remotely, I used Tableau for the data visualisation that runs alongside snapshots of the actual code. 
+I am an enthusiastic CrossFitter, so I built my project database around the CF Open using joins and views to show athletes and gyms how they rank across the workouts and overall. For the final session of the course I submitted my SQL code https://github.com/Cowley-Codes/CFGProject-CrossFitOpen/blob/main/CrossFit%20Open.sql and presented my project to the group remotely, I used Tableau for the data visualisation that runs alongside snapshots of the actual code. 
